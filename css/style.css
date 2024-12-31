@@ -123,7 +123,7 @@ ol {
 }
 
 .section-title h2 {
-	color: #353535;
+	color: #5e181d;
 	font-size: 40px;
 	font-weight: 700;
 	margin-top: 5px;
@@ -388,7 +388,8 @@ ol {
 }
 
 .header__logo {
-	padding: 35px 0;
+	padding: 20px 0;
+	width: 80%;
 }
 
 .header__logo a {
@@ -1981,7 +1982,7 @@ ol {
 .services__item {
 	text-align: center;
 	padding: 36px 35px 40px;
-	border: 1px solid #ebebeb;
+	border: 1px solid #727171;
 	border-radius: 2px;
 	-webkit-transition: all, 0.4s;
 	-o-transition: all, 0.4s;
@@ -2003,7 +2004,7 @@ ol {
 
 .services__item h5 {
 	font-size: 20px;
-	color: #323232;
+	color: #ce1e16;
 	font-weight: 700;
 	margin-bottom: 12px;
 	margin-top: 20px;
@@ -2055,8 +2056,9 @@ ol {
 
 .car__details__tab .nav-tabs {
 	border-bottom: none;
-	background: #f7f7f7;
+	background: #221c1c;
 	padding: 0 30px;
+	border-radius: 8px;
 }
 
 .car__details__tab .nav-tabs .nav-item {
@@ -3169,7 +3171,7 @@ ol {
 		margin-top: 20px;
 	}
 	.car__details__tab .nav-tabs .nav-item {
-		margin-right: 8px;
+		margin-right: 49px;
 	}
 	.testimonial__slider.owl-carousel .owl-nav button {
 		left: -10px;
